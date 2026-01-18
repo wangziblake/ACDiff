@@ -14,7 +14,7 @@ Given the **amazing adaptability and generalization capability**, we believe tha
 
 ![Example_DiffACS](https://github.com/wangziblake/STDM/blob/main/Figure/Example_DiffACS.png)
 
-**The preprint paper can be seen at (coming soon)**
+**The preprint paper can be seen at (coming soon ...)**
 
 **Email: Dr. Zi Wang (zi.wang@imperial.ac.uk); Dr. Guang Yang (g.yang@imperial.ac.uk)**
 
