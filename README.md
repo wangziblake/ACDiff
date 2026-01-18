@@ -1,7 +1,7 @@
 # Make 3D Diffusion Easier: Accelerating Multidimensional MRI with A Unified Autocalibrated Diffusion Framework
 Accelerated dynamic magnetic resonance imaging (MRI) is highly expected in clinical applications. **However, its reconstruction remains challenging due to the inherently high dimensionality and complexity of spatiotemporal information.** Recent diffusion model has emerged as a robust reconstruction approach for spatial imaging, but their applications to spatiotemporal data remain underexplored. Therefore, it is essential to develop a new diffusion model tailored for dynamic MRI reconstruction, to better visualize the changes in organ physiological functions. 
 
-![Method_DiffACS](https://github.com/wangziblake/STDM/blob/main/Figure/Method_DiffACS.png)
+![Method_DiffACS](https://github.com/wangziblake/DiffACS/blob/main/Figure/Method_DiffACS.png)
 
 Here, we propose **a novel spatiotemporal diffusion model specifically designed for accelerated dynamic MRI**. Our main contributions are summarized as follows: 
 
@@ -12,7 +12,7 @@ Here, we propose **a novel spatiotemporal diffusion model specifically designed 
 
 Given the **amazing adaptability and generalization capability**, we believe that our spatiotemporal diffusion model offers a promising direction for achieving more reliable dynamic MRI in diverse scenarios. Furthermore, this innovative approach holds great potential to be extended to the inverse problems in other medical modalities involving dynamic acquisitions.
 
-![Example_DiffACS](https://github.com/wangziblake/STDM/blob/main/Figure/Example_DiffACS.png)
+![Example_DiffACS](https://github.com/wangziblake/DiffACS/blob/main/Figure/Example_DiffACS.png)
 
 **The preprint paper can be seen at (coming soon ...)**
 
