@@ -14,21 +14,23 @@ Given the **amazing adaptability and generalization capability**, we believe tha
 
 ![Example_DiffACS](https://github.com/wangziblake/STDM/blob/main/Figure/Example_DiffACS.png)
 
-**This paper has been accepted by IEEE Transactions on Computational Imaging (2025) at https://doi.org/10.1109/TCI.2025.3598421**
+**The preprint paper can be seen at (coming soon)**
 
-**Email: Dr. Zi Wang (zi.wang@imperial.ac.uk); Dr. Xiaobo Qu (quxiaobo@xmu.edu.cn)**
+**Email: Dr. Zi Wang (zi.wang@imperial.ac.uk); Dr. Guang Yang (g.yang@imperial.ac.uk)**
 
 
-## dSTDM framework: Dual-directional spatiotemporal diffusion model
-The training and testing codes of dSTDM framework are released here.
+## DiffACS framework
+The training and testing codes of DiffACS framework are released here.
 
 Run the main code for training, use:
 ```
-/dSTDM_maincode/STDM/STDM_Train_withCSM_Minibatch_InOrder_torch_CineSAX.py
+/DiffACS_maincode/DiffACS/DiffACS_Train_withCSM_Minibatch_InOrder_torch_CineSAX.py
+/DiffACS_maincode/DiffACS/DiffACS_Train_withCSM_Minibatch_InOrder_torch_T1Mapping.py
+/DiffACS_maincode/DiffACS/DiffACS_Train_withCSM_Minibatch_InOrder_torch_BreastDCE320.py
 ```
 Run the main code for reconstruction, use:
 ```
-/dSTDM_maincode/STDM/STDM_DualRD_Recon_torch.py
+/DiffACS_maincode/DiffACS/DiffACS_RD_Recon_torch.py
 ```
 
 Python environment should be: python=3.6.13, pytorch=1.10.1
@@ -39,11 +41,11 @@ Python environment should be: python=3.6.13, pytorch=1.10.1
 ## Citation
 If you want to use the code, please cite the following paper:
 
-Zi Wang et al., Robust cardiac cine MRI reconstruction with spatiotemporal diffusion model, ***IEEE Transactions on Computational Imaging***, 11: 1258-1270, 2025.
+Zi Wang et al., Accelerating Multidimensional MRI With A Unified Autocalibrated Diffusion Framework, ***arXiv preprint***, 2026.
 
 
 ## Acknowledgement
-The authors thank Drs. Michael Lustig, Ricardo Otazo, Jo Schlemper, Dong Liang, Hyungjin Chung, Jong Chul Ye, and Yang Song for sharing their codes online. 
+The authors thank Drs. Michael Lustig, Ricardo Otazo, Hyungjin Chung, Jong Chul Ye, and Yang Song for sharing their codes online. 
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=<wangziblake>.<STDM>)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=<wangziblake>.<DiffACS>)
