@@ -41,7 +41,7 @@ Python environment should be: python=3.6.13, pytorch=1.10.1
 ## Citation
 If you want to use the code, please cite the following paper:
 
-Zi Wang et al., Accelerating Multidimensional MRI With A Unified Autocalibrated Diffusion Framework, ***arXiv preprint***, 2026.
+Zi Wang et al., Accelerating multidimensional MRI with a unified autocalibrated diffusion framework, ***arXiv preprint***, 2026.
 
 
 ## Acknowledgement
