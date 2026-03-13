@@ -16,8 +16,6 @@ Our main contributions are summarized as follows:
 
 Given its **strong versatility and scalability**, we believe that the proposed unified autocalibrated diffusion framework represents **a promising and general reconstruction solution** for accelerated multidimensional MRI. Furthermore, this study offers a principled pathway toward unified generative frameworks for inverse problems in multidimensional medical imaging.
 
-![Example_DiffACS](https://github.com/wangziblake/DiffACS/blob/main/Figure/Example_DiffACS.png)
-
 **The preprint paper can be seen at (coming soon ...)**
 
 **Email: Dr. Zi Wang (zi.wang@imperial.ac.uk); Dr. Guang Yang (g.yang@imperial.ac.uk)**
