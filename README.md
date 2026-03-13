@@ -1,4 +1,4 @@
-# Make 3D Diffusion Easier: Accelerating Multidimensional MRI with A Unified Autocalibrated Diffusion Framework
+# Make 3D Diffusion Easier: Accelerating Multidimensional MRI with Unified Autocalibrated Diffusion Framework
 Multidimensional magnetic resonance imaging (MRI) combines spatial encoding with an additional acquisition-dependent dimension (e.g., motion dynamics, contrast evolution, and pharmacokinetic dynamics), providing rich information for diverse applications including dynamic, quantitative, and perfusion imaging. **Highly accelerated multidimensional MRI reconstruction** can substantially facilitate high-throughput and patient-friendly imaging. 
 
 Recent diffusion models show great promise with their flexibility and robustness at high acceleration factors. However, **the complexity and instability of high-dimensional diffusion** often force existing approaches to decompose the natural **3D spatial-acquisition (i.e., 2D spatial and 1D acquisition-dependent dimension) problem** into multiple 2D sub-problems, limiting their ability to capture the full 3D imaging data distribution.
