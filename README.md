@@ -5,7 +5,7 @@ Recent diffusion models show great promise with their flexibility and robustness
 
 In this work, we focus on the fundamental challenge of enabling **effective and stable 3D diffusion modeling** for accelerated multidimensional MRI. Rather than tailoring diffusion models to specific applications or decomposing the problem into lower-dimensional subspaces, we identify and exploit **a key common prior** that ubiquitously exists across multidimensional MRI acquisitions, namely the autocalibration signal (ACS). By leveraging ACS as a reliable and physically grounded conditioning source, we demonstrate that complex 3D diffusion process can be effectively guided in **a unified manner**, leading to consistent performance improvements across **diverse multidimensional imaging tasks**.
 
-![Method_DiffACS](https://github.com/wangziblake/DiffACS/blob/main/Figure/Method_DiffACS.png)
+![Method_DiffACS](https://github.com/wangziblake/ACDiff/blob/main/Figure/Method_DiffACS.png)
 
 Our main contributions are summarized as follows: 
 
