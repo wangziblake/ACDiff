@@ -28,13 +28,13 @@ The training and testing codes of DiffACS framework are released here.
 
 Run the main code for training, use:
 ```
-/DiffACS_maincode/DiffACS/DiffACS_Train_withCSM_Minibatch_InOrder_torch_CineSAX.py
-/DiffACS_maincode/DiffACS/DiffACS_Train_withCSM_Minibatch_InOrder_torch_T1Mapping.py
-/DiffACS_maincode/DiffACS/DiffACS_Train_withCSM_Minibatch_InOrder_torch_BreastDCE320.py
+/ACDiff_maincode/ACDiff/ACDiff_Train_withCSM_Minibatch_InOrder_torch_CineSAX.py
+/ACDiff_maincode/ACDiff/ACDiff_Train_withCSM_Minibatch_InOrder_torch_T1Mapping.py
+/ACDiff_maincode/ACDiff/ACDiff_Train_withCSM_Minibatch_InOrder_torch_BreastDCE320.py
 ```
 Run the main code for reconstruction, use:
 ```
-/DiffACS_maincode/DiffACS/DiffACS_RD_Recon_torch.py
+/ACDiff_maincode/ACDiff/ACDiff_RD_Recon_torch.py
 ```
 
 Python environment should be: python=3.6.13, pytorch=1.10.1
@@ -45,11 +45,11 @@ Python environment should be: python=3.6.13, pytorch=1.10.1
 ## Citation
 If you want to use the code, please cite the following paper:
 
-Zi Wang et al., Accelerating multidimensional MRI with a unified autocalibrated diffusion framework, ***arXiv preprint***, 2026.
+Zi Wang et al., Accelerating multidimensional MRI with unified autocalibrated diffusion framework, ***arXiv preprint***, 2026.
 
 
 ## Acknowledgement
 The authors thank Drs. Michael Lustig, Ricardo Otazo, Hyungjin Chung, Jong Chul Ye, and Yang Song for sharing their codes online. 
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=<wangziblake>.<DiffACS>)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=<wangziblake>.<ACDiff>)
