@@ -5,7 +5,7 @@ Recent diffusion models show great promise with their flexibility and robustness
 
 In this work, we focus on the fundamental challenge of enabling **effective and stable high-dimensional diffusion modeling** for faithful multidimensional MRI reconstruction. Rather than tailoring diffusion models to specific applications or decomposing the problem into lower-dimensional subspaces, we identify and exploit **a key common prior** that ubiquitously exists across multidimensional MRI acquisitions, namely the autocalibration signal (ACS). By leveraging ACS as **a physics-informed inductive bias**, we demonstrate that **diverse multidimensional imaging tasks** can be addressed under **a unified generative paradigm** without architectural modifications.
 
-![Overview_ACDiff](https://github.com/wangziblake/ACDiff/blob/main/Figure/Overview_ACDiff.png)
+![Overview_ACDiff](https://github.com/wangziblake/ACDiff/blob/main/Figure/Overview_ACDiff_v2.png)
 
 Our main contributions are summarized as follows: 
 
